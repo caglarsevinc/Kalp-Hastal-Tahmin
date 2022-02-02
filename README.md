@@ -1,6 +1,4 @@
 # Kalp-Hastal-Tahmin / Heart-Disease-Prediction
-Yapay sinir ağı eğiterek hastalık tahmini
-
 Bu notebook ne içeriyor:
 
 1- Datayı ve kütüphaneleri yükleme
