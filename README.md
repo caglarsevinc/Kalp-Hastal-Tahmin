@@ -1,4 +1,11 @@
 # Kalp-Hastal-Tahmin / Heart-Disease-Prediction
+
+
+
+![World Heart Day Instagram Post (1)](https://user-images.githubusercontent.com/45899874/157345615-4a0f3435-ce50-43a2-9636-97a5eea2efbc.png)
+
+---------------------------------
+
 Bu notebook ne içeriyor:
 
 1- Datayı ve kütüphaneleri yükleme
@@ -19,4 +26,3 @@ This notebook includes:
 
 3- Neural Network
 
-![World Heart Day Instagram Post](https://user-images.githubusercontent.com/45899874/157345449-443c688a-438e-408a-8a57-5e3aacde952a.png)
